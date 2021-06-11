@@ -15,7 +15,7 @@ class Employee
 	}
 }
 
-class  TestSortingByEmpId
+class  TestGettingEmpId
 {
 	public static void main(String[] args) 
 	{
